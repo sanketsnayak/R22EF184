@@ -1,0 +1,13 @@
+[{
+    "email": "sanketsnayak89@gmail.com",
+    "name": "sanket nayak",
+    "rollNo": "r22ef184",
+    "accessCode": "NJMKDW",
+    "clientID": "f619d827-784a-4a77-8323-5ebdd3cefd87",
+    "clientSecret": "EBFzzgmeGzuVbFnN"
+},
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJzYW5rZXRzbmF5YWs4OUBnbWFpbC5jb20iLCJleHAiOjE3NTY3MDI5NTQsImlhdCI6MTc1NjcwMjA1NCwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6IjA0MDE2YWJhLTgzOTMtNDVlNS1iNTFhLTA2MTI0NDE2Y2U3YiIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6InNhbmtldCBuYXlhayIsInN1YiI6ImY2MTlkODI3LTc4NGEtNGE3Ny04MzIzLTVlYmRkM2NlZmQ4NyJ9LCJlbWFpbCI6InNhbmtldHNuYXlhazg5QGdtYWlsLmNvbSIsIm5hbWUiOiJzYW5rZXQgbmF5YWsiLCJyb2xsTm8iOiJyMjJlZjE4NCIsImFjY2Vzc0NvZGUiOiJOSk1LRFciLCJjbGllbnRJRCI6ImY2MTlkODI3LTc4NGEtNGE3Ny04MzIzLTVlYmRkM2NlZmQ4NyIsImNsaWVudFNlY3JldCI6IkVCRnp6Z21lR3p1VmJGbk4ifQ.DLDW69wKkwUQZviDulMqA5iE0leYUJwEX0YziW_Db5w",
+    "expires_in": 1756702954
+}]
